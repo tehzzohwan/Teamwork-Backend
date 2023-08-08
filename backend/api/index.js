@@ -12,7 +12,7 @@ const app = express();
 const port = process.env.PORT || 3000; 
 
 const corsOptions = {
-	origin: 'https://tehzz-teamwork.netlify.app' 
+	origin: 'https://master--tehzz-teamwork.netlify.app' 
 };
   
 app.use(cors(corsOptions));
