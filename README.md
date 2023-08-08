@@ -16,3 +16,6 @@ npm run start
 | GET    | /api/v1/users      | To get details of all users    |
 | POST   | /api/v1/users      | To create a new user           |
 | POST   | /api/v1/auth/login | To login an Admin/Employee     |
+
+## Deployment
+The app was deployed to render
